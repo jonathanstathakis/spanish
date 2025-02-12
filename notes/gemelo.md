@@ -1,0 +1,6 @@
+---
+tags:
+  - spanish
+---
+
+(n.) twin

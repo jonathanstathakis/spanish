@@ -1,0 +1,6 @@
+---
+tags:
+  - spanish
+---
+
+bill, cheque.
