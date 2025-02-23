@@ -1,6 +1,0 @@
----
-tags:
-  - spanish
----
-
-some, someone.

@@ -1,13 +1,9 @@
 ---
-aliases: []
-cdt: '2022-03-27T11:03:00'
-mdt: 202207261732
+aliases: 
+cdt: 2022-03-27T11:03:00
+mdt: 2022-07-26T17:32:00
 tags:
-- spanish
-- pronoun
-- counting
-- 2022
-tags: spanish
+  - spanish
 ---
 
 Several, various.
