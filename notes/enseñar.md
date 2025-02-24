@@ -1,6 +1,4 @@
 ---
-tags:
-  - spanish
+tags: triage-triage
 ---
-
-to teach.
+To teach. 

@@ -1,16 +1,12 @@
 ---
-tags:
-  - spanish
+cdt: '2024-07-01T00:00:00'
+mdt: Thursday 10th February 2022 19:03:44
+tags: zettel, gustar, gustaria, spanish, verb, intransitive-verb
 ---
 
-would like to
+# gustaría
+To like, to taste. Intransitive verb conjugation of gustar. 
 
-"A Eduardo le gusta" = Eduardo likes
-
-"Nos gusta" = we like
-
-To talk about what multiple people like: "Les gusta"
-
-i.e. "Les gusta ir al parque" = They like going to the park
-
-"a mi me gusta.." I like "A ti te gusta.." "a ellos les gusta.."
+# Participles
+Present - gustando.
+past- gustado.
