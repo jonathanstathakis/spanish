@@ -1,0 +1,1 @@
+“pasear al perro”: “to walk the dog”.

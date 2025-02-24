@@ -5,7 +5,6 @@ mdt: 202207171607
 tags:
   - spanish
   - verb
-  - q
 ---
 
 To change.
