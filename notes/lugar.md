@@ -1,6 +1,0 @@
----
-tags:
-  - spanish
----
-
-place, location.
