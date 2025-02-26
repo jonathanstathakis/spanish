@@ -42,7 +42,7 @@ Categories of notes include:
 
 [[spanish_verbs]]  
 [[spanish_nouns]]  
-[[time_in_spanish]]  
+[[time]]
 [[spanish_grammar]]  
 [[Argentine_Spanish]]  
 [[spanish_music]]  

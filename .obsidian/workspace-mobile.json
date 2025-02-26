@@ -10,14 +10,49 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "spanish.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "spanish"
+            }
+          },
+          {
+            "id": "1b95fe79a0ab1466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to_be_indexed/20211228_spanishMonthsOfTheYear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20211228_spanishMonthsOfTheYear"
+            }
+          },
+          {
+            "id": "df34346b14544af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "time"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -45,7 +80,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:non-flavonoids",
+            "query": "\"de la noche\"",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +117,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "062516e12a2f3c5e",
@@ -94,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "spanish.md",
+            "file": "time.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,8 +185,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "df34346b14544af3",
   "lastOpenFiles": [
+    "time.md",
+    "spanish.md",
+    "to_be_indexed/20211228_spanishMonthsOfTheYear.md",
+    "to_be_indexed/abecedario.md",
+    "spanish-alphabet.md",
     "walk the dog.md",
     "to_be_indexed/casi.md",
     "to_be_indexed/campo.md",
@@ -173,11 +213,6 @@
     "to_be_processed/Argentine_Spanish.md",
     "to_be_indexed/Aprender.md",
     "to_be_indexed/anteayer.md",
-    "notes/apocopic.md",
-    "to_be_indexed/anteanoche.md",
-    "to_be_indexed/anotar.md",
-    "to_be_processed/anoche.md",
-    "to_be_processed/aniversario.md",
     "to_be_indexed",
     "to_be_processed",
     "notes/Spanish_Study.docx",
