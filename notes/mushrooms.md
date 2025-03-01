@@ -1,6 +1,0 @@
----
-tags:
-  - spanish
----
-
-mushrooms = ongos

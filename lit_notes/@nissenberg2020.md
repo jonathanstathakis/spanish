@@ -87,7 +87,7 @@ Boils down to:
 
 where x = a if -ar, x = e if -er, and x = e for all tenses but nosotros/vosotros, where it = i. 
 
-![[presentTense]]
+![[conj_table_present]]
 ## Exercise 1.1
 ### La familia Gómez 
 Pedro Gómez vive con su familia en mi edificio de apartamentos. 
